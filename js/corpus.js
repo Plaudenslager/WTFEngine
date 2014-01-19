@@ -48,5 +48,5 @@ corpus = {};
 corpus.sport		= ["softball","football","volleyball","wall-ball","dodge-ball","checkers","tic-tac-toe","basketball","soccer"]
 corpus.place		= ["in the gym","on the playground","in the hallway","in the kitchen","at McDonalds","in my friends garage","on the roof"]
 corpus.action		= ["running","throwing","swinging a bat","pitching","passing the ball","trying to win","trying to grab the ball"]
-corpus.error		= ["fell","tripped","ran into a wall","crashed into my friend","got hit with the ball","hit myself","flipped upside down","heard something go snap"]
+corpus.error		= ["fell","tripped","ran into a wall","crashed into my friend","got hit with the ball","hit myself","flipped upside down","heard something go snap","caught my foot in a crack"]
 corpus.bodypart		= ["eye","knee","ankle","leg","ear","finger","big toe","neck","elbow","thumb","shoulder",]
